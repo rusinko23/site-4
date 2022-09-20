@@ -80,6 +80,7 @@ h1 {
    font-size: 32px;
    line-height: 82px;
    text-align: center;
+   text-decoration: none;
 }
 .bottom__price {
    width: 143px;
